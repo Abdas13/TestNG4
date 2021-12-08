@@ -12,7 +12,8 @@ public class TryForGithub {
         // 9th row
         // 8th row from local
         // 7th row from main
-        // 10th row conflict is it right?
+        // 10th row isconflict?
+
         
 
 
